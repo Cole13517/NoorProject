@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "372935395715",
+    "firebase_url": "https://noorproject-issue1.firebaseio.com",
+    "project_id": "noorproject-issue1",
+    "storage_bucket": "noorproject-issue1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372935395715:android:4ff3611f9ce81aa1",
+        "android_client_info": {
+          "package_name": "com.example.crimsondragon.noorproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372935395715-esntupc8q3nfccailp8oq90fek7kh6uj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.crimsondragon.noorproject",
+            "certificate_hash": "dbfbc272f92995de92626030cedbdd7364a85346"
+          }
+        },
+        {
+          "client_id": "372935395715-2nibpbmleettkp4f4im54prgom0u44jq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoePztaLrIuwLXjK3KrTmOJBU03y94rYo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372935395715-2nibpbmleettkp4f4im54prgom0u44jq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
