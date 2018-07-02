@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NoorProject</string>
+    <string name="title_activity_noor_member_map">Map</string>
 </resources>
